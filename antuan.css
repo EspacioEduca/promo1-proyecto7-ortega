@@ -1,0 +1,258 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none; 
+
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background-image:url(./fondo\ 2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.contenedor{
+    width: 100%;
+    height: 100%;
+}
+
+.frase{
+    margin-bottom: 0%;
+    border:solid #0EA259;
+    padding: 0.61%;
+    text-align: center;
+    font-family: 'Bebas Neue',cursive;
+    background-color: #0EA259;
+}
+
+
+.barra{
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:  #131313  ;
+    
+}
+
+.logo{
+    width: 120px;
+    cursor: pointer;
+}
+
+.barra ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    
+}
+
+.barra ul li a {
+    text-decoration: none;
+    color: #0EA259;
+    font-family: "Roboto", sans-serif;
+    font-size: 1.2rem;
+    
+}
+
+
+
+.nombre{
+    background-color: #131313 ;
+    color: #0EA259;
+    padding: 0.80%;
+    height: 27px;
+    text-align: center;
+    font-family: 'Bebas Neue',cursive;
+    font-size: 1.7rem;
+    margin-bottom: 4%;
+    
+}
+.perfil{
+    display: flex;
+    border-radius: 10px;
+    border:solid #0EA259;
+    margin: 1%;
+    
+}
+.foto1{
+    width:15%;
+    margin: 1%;
+    border-radius:10px;
+}
+.descripcion{
+    margin: 1%;
+    font-size: 1.5rem;
+}
+.habilidades{
+    background-color: #131313 ;
+    border: solid #0EA259;
+    padding: 0.80%;
+    color:rgb(243, 241, 239);
+    display:flex;
+    justify-content: space-between;
+    font-size: 1.40rem;
+    
+} 
+
+p, h2{
+    font-family: "Roboto", sans-serif;
+    color: rgb(243, 241, 239);
+}
+.vision1{
+    background-color: #131313 ;
+    border: solid #0EA259;
+    padding: 0.80%;
+}
+
+h1{
+    margin-top: 1.50%;
+    border:solid #0EA259;
+    background-color: #0EA259;
+    font-family: 'Bebas Neue',cursive;
+    padding:0.50%;
+}
+
+.lenguajes{
+    background-color: #131313 ;
+    border: solid #0EA259;
+    padding: 0.80%;
+    color:rgb(243, 241, 239);
+    display:flex;
+    justify-content: center;
+    font-size: 0.80rem;   
+}
+
+.img1{
+    width: 33%;
+    
+    
+}
+.proyec1{
+    width: 70.5%;
+    height: 50%;
+    padding: 5%;
+    font-size: 18px;
+    margin-top: 0%;
+    margin-left: 2%;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.proyectos{
+    margin-top: 1.50%;
+    margin-left:0% ;
+    margin-bottom:1.50% ;
+    width: 100%;   
+    border: solid #0EA259;
+    padding: 1%;
+    color:#131313;
+    display:flex;
+    justify-content: space-between;
+    font-size: 1.80rem;
+    
+}
+.proyec1{
+    background-color: #131313 ;
+    border: solid ;
+    padding: 0.80%;
+    color:#0EA259;
+    display:space-between;
+    justify-content: center;
+    font-size: 1.80rem;   
+   }
+  
+   
+   h4{
+       justify-content: center;
+       margin: 1%;
+       font-size: 1.50rem;
+   }
+
+   .proyect2{
+    background-color: #131313 ;
+    border: solid ;
+    padding: 0.70%;
+    color:#0EA259;
+    display:space-between;
+    justify-content: center;
+    font-size: 18px; 
+    width: 70%;
+    height: 50%;
+    padding: 1%;
+    font-size: 18px;
+    margin-top: 0%;
+    margin-left: 25%;
+    border-radius: 10px;
+    margin-bottom: 30px;  
+   }
+
+   
+    
+   
+   .proyect3{
+    background-color: #131313 ;
+    border: solid ;
+    padding: 0.70%;
+    color:#0EA259;
+    display:space-between;
+    justify-content: center;
+    font-size: 18px; 
+    width: 70%;
+    height: 50%;
+    padding: 1%;
+    font-size: 18px;
+    margin-top: 0%;
+    margin-left: 2.10%;
+    border-radius: 10px;
+    margin-bottom: 30px;  
+   }
+
+   .img2{
+    width:25%;
+    height: 20%;
+    border-radius: 10px;
+    
+}
+.img3{
+    width: 31%;
+    border-radius: 10px;
+}
+
+.img4{
+    width:29.5%;
+    height: 20%;
+    border-radius: 10px;
+    
+}
+.img5{
+    width:25%;
+    height: 20%;
+    border-radius: 10px;
+    
+}
+.img6{
+    width:32%;
+    height: 20%;
+    border-radius: 10px;
+    
+}
+
+.img7{
+       width: 30%;
+       margin-left: 5%;
+       border-radius: 10px;
+       
+}
+
+.img8{
+    width:38%;
+    border-radius: 10px;
+      
+ }
